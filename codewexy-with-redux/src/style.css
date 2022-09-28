@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+.menu {
+display: flex;
+justify-content: space-evenly;
+}
+
+li {
+list-style: none;
+}
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+}
